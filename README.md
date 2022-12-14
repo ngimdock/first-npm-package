@@ -19,7 +19,7 @@ $ yarn add @dan73/is-positive
 You need to import `isPositiveNumber` from `@dan73/is-positive`
 
 ```typescript
-import { isPositiveNumber } from "is-positive";
+import { isPositiveNumber } from "@dan73/is-positive";
 
 console.log(isPositiveNumber(-40)); // false
 ```
