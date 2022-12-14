@@ -5,18 +5,18 @@ Check if the given number is positive
 ## Installation
 
 ```bash
-$ npm install @dan3/is-positive
+$ npm install @dan73/is-positive
 ```
 
 or
 
 ```bash
-$ yarn add @dan3/is-positive
+$ yarn add @dan73/is-positive
 ```
 
 ## Usage
 
-You need to import `isPositiveNumber` from `@dan3/is-positive`
+You need to import `isPositiveNumber` from `@dan73/is-positive`
 
 ```typescript
 import { isPositiveNumber } from "is-positive";
