@@ -1,0 +1,27 @@
+{
+  "name": "@dan73/is-positive",
+  "version": "1.0.0",
+  "description": "Is the given number is positive ?",
+  "main": "build/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngimdock/first-npm-package.git"
+  },
+  "keywords": [
+    "isPositive",
+    "positiveNumber"
+  ],
+  "author": "dan73",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngimdock/first-npm-package/issues"
+  },
+  "homepage": "https://github.com/ngimdock/first-npm-package#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
