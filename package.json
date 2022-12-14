@@ -1,6 +1,6 @@
 {
   "name": "@dan73/is-positive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Is the given number is positive ?",
   "main": "build/index.js",
   "type": "module",
